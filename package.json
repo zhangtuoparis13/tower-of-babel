@@ -6,6 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "ZHANG Tuo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangtuoparis13/tower-of-babel.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "tutorial"
+  ],
+  "bugs": {
+    "url": "https://github.com/zhangtuoparis13/tower-of-babel/issues"
+  },
+  "homepage": "https://github.com/zhangtuoparis13/tower-of-babel#readme"
 }
