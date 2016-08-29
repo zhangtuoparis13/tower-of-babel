@@ -35,7 +35,9 @@ class Character {
         this.health_ =100;
     }
 
-    damage(){
+    damage(character){
+        if (!(character instanceof Character))
+            throw new Error('');
         this.health_ = this.health_ - 10;
     }
 
