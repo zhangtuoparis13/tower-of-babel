@@ -2,6 +2,7 @@
  * Created by TBtuo on 29/08/16.
  */
 
+// module with name
 export const PI = 3.141592;
 
 var  _sqrt = function (s, x, last) {
